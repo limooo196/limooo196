@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Limousine
+- 👋 Hi, I’m Limousine and Studying in University of Wollongong
 - 👀 I’m interested in Cybersecurity but i doesn't hold me back on other IT fields!
 - 🌱 I’m currently learning Reverse Engineering and Malware Analysis
 - 💞️ I’m also studying for SY0-601 Sec+ exam 
