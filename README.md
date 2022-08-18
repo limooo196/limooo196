@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Limousine and Studying in University of Wollongong
-- 👀 I’m interested in Cybersecurity but i doesn't hold me back on other IT fields!
-- 💞️ I’m also studying for SY0-601 Sec+ exam 
 - 📫 To reach you you can email to Limousine196@gmail.com
 
 <!---
